@@ -6,6 +6,6 @@ For startup companies (referred to as “Startups”), we recommend a minimum of
 
 | Severities | Low Severity Vulnerability | Medium Severity Vulnerability | High Severity Vulnerability | Critical Severity Vulnerability |
 | --- | --- | --- | --- | --- |
-| Startups | $100 | $300 | $750 | $2000 |
-| SMEs | $250 | $500 | $1000 | $2500 |
-| Enterprises | $500 | $750 | $2000 | $5000 |
+| **Startups** | $100 | $300 | $750 | $2,000 |
+| **SMEs** | $250 | $500 | $1,000 | $2,500 |
+| **Enterprises** | $500 | $750 | $2,000 | $5,000 |
