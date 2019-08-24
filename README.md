@@ -19,6 +19,6 @@ For startup companies (referred to as “Startups”), we recommend a minimum of
 | Low | $100 | $300 | $500 |
 | Medium | $300 | $500 | $750 |
 | High | $500 | $750 | $1,000 |
-| Critical | $1,000 | $1,500 | $2,000 |
+| Critical | $1,000 and up | $1,500 and up | $2,000 and up |
 
 Please note that you can award any bounty you want but the it must be bigger than the default bounty depending on the severity. Additionally, we add 20% fee for each awarded bug bounty for payment processing.
