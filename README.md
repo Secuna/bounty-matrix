@@ -14,7 +14,7 @@ For companies runninng a Bug Bounty Program on Secuna, we created these bug boun
 
 For startup companies (referred to as “Startups”), we recommend a minimum of $100 USD for low severity vulnerabilities.
 
-| **Severity** | **Median** | **Competitive** | **Top** |
+| **Severity** | **Starter** | **Standard** | **Superior** |
 | --- | --- | --- | --- |
 | Low | $100 USD | $300 USD | $500 USD |
 | Medium | $300 USD | $500 USD | $750 USD |
